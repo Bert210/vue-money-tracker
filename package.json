@@ -1,0 +1,9 @@
+{
+  "name": "vue-money-tracker",
+  "version": "0.0.0",
+  "description": "Using Vue and Google Sheets to create a very quick PWA for tracking your money.",
+  "main": "index.js",
+  "repository": "https://github.com/Bert210/vue-money-tracker.git",
+  "author": "Robert Utchel <bert210@gmail.com>",
+  "license": "MIT"
+}
