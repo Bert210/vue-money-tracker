@@ -5,5 +5,19 @@
   "main": "index.js",
   "repository": "https://github.com/Bert210/vue-money-tracker.git",
   "author": "Robert Utchel <bert210@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  },
+  "dependencies": {
+    "@vue/cli": "^3.3.0",
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "vue": "^2.5.22"
+  }
 }
